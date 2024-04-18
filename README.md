@@ -56,4 +56,15 @@ GridSearchCV and RandomizedSearchCV techniques are utilized to optimize hyperpar
 
 The best-performing model selected from the optimization techniques is used to make final predictions. Visualizations such as scatter plots of actual vs. predicted values and error distributions are presented to assess model performance.
 
+****
+### Result
+
+![image](https://github.com/Rishi-Jain2602/Marks-Predictor/assets/118871883/dbe94b8b-1cc9-433a-b15c-4a2bf604037b)
+
+
+### Note
+
+1. Make sure you have Python 3.x installed
+2. It is recommended to use a virtual environment to avoid conflict with other projects.
+3. If you encounter any issue during installation or usage please contact rishijainai262003@gmail.com or rj1016743@gmail.com
 
